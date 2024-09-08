@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a rising 2nd year at UC Irvine, who recently switched from aerospace to software engineering.<br><br>I am currently pursuing frontend web development, but am open to backend and fullstack positions as well.<br><br>I am learning Next.js and TailwindCSS by working on a few personal projects (Slack clone, Trello clone, Notion clone, StackOverflow clone)
+I am a rising 2nd year at UC Irvine, who recently switched from aerospace to software engineering.<br><br>I am currently pursuing frontend web development, but am open to backend and fullstack positions as well.<br><br>I am learning Next.js and TailwindCSS by working on a few personal projects (Slack clone, Trello clone, Notion clone, StackOverflow clone).<br><br>Btw, I am new to version control and GitHub, so be patient with me as I figure this out. I've been committing with the wrong email address for quite some time, so it didn't really show up in my contributions section.
 
 
 ## 🌐 Socials:
