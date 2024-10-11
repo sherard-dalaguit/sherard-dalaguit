@@ -6,7 +6,8 @@
 
 🔭 **What I'm Working On:**
 
-- Developing full-stack projects using **TypeScript**, **React**, **Next.js**, and **TailwindCSS**.
+- Just finished developing a few full-stack projects using **TypeScript**, **React**, **Next.js**, and **TailwindCSS**.
+- Will get back to developing projects (full-stack / artificial intelligence) once winter break starts. Classes get too busy lol
 
 🌱 **What I'm Learning:**
 
